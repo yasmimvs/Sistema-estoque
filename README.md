@@ -1,7 +1,7 @@
 
  Sistema de Estoque - ASP.NET + Firebase
 
-sistema simples de gerenciamento de estoque desenvolvido em ASP.NET WebForms com integração ao Firebase Firestore.
+sistema simples de gerenciamento de estoque, desenvolvido em ASP.NET WebForms com integração ao Firebase Firestore.
 
 
  Funcionalidades:
@@ -12,17 +12,12 @@ sistema simples de gerenciamento de estoque desenvolvido em ASP.NET WebForms com
 - Integração com banco de dados em nuvem (Firebase)
   
 
- Tecnologias utilizadas:
+ Ferramentas utilizadas:
 
 - ASP.NET WebForms (C#)
 - HTML / CSS
 - Firebase Firestore
 - HttpClient (API REST)
-
-
- Imagens do sistema:
-
-(Adicione prints depois aqui)
 
 
  Objetivo:

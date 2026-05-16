@@ -19,7 +19,7 @@ sistema simples de gerenciamento de estoque, desenvolvido em ASP.NET WebForms co
 - Firebase Firestore
 - HttpClient (API REST)
 
-Visuaal do sistema: ( print nos arquivos)
+Visual do sistema: ( print nos arquivos)
 
  Objetivo:
 
